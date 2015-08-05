@@ -1,9 +1,9 @@
-.cyberfund-button {
+.share-reveal-editor.cyberfund-button {
   background: #ddd;
-  color: black !important;
+  color: black;
   border: solid black 1px;
   transition: all ease 0.3s;
 }
-.cyberfund-button:hover {
+.share-reveal-editor.cyberfund-button:hover {
   background-color: white
 }
